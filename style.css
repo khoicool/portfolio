@@ -33,3 +33,24 @@ li {
 body {
     background-color:#899EBB;
 }
+
+.link-header {
+    text-decoration:none;
+    border: 5px solid lightblue;
+    border-radius: 10px;
+    background-color:skyblue;
+    color:black;
+}
+
+nav {
+    display:flex;
+    justify-content: space-around;
+}
+
+.link-nav {
+        text-decoration:none;
+    border: 5px solid green;
+    border-radius: 10px;
+    background-color:greenyellow;
+    color:black;
+}
