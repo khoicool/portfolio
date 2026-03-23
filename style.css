@@ -54,3 +54,11 @@ nav {
     background-color:greenyellow;
     color:black;
 }
+
+.hello {
+    font-size:30px
+}
+
+.link-nav:hover, .link-header:hover {
+    box-shadow: 3px 5px 0px 0px gold;
+}
